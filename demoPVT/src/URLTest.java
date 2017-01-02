@@ -3,6 +3,7 @@ class URLTest
 {
 public static void main()
 {
-	System.out.println("hi");	
+	System.out.println("hi");
+	System.out.println("commit success now pull");
 }
 }
